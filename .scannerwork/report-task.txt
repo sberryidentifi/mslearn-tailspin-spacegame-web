@@ -1,0 +1,7 @@
+organization=sberryidentifi
+projectKey=sberryidentifi_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.3934
+dashboardUrl=https://sonarcloud.io/dashboard?id=sberryidentifi_mslearn-tailspin-spacegame-web
+ceTaskId=AW-Ki_BCxk88d1--kt1q
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW-Ki_BCxk88d1--kt1q
